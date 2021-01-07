@@ -4,6 +4,8 @@ layout: home
 
 # SOLLVE: Scaling OpenMP With LLVm for Exascale Performance and Portability
 
+SOLLVE is the OpenMP Sub-project in United States Department of Energy's Exascale Computing Project. SOLLVE holds hackathons each year to help application programmers use OpenMP effectively in their application programs.
+
 ## Project Description
 
 OpenMP, the de facto directive-based standard for on-node programming provides a convenient and flexible mechanism to exploit the substantial compute power within the nodes of today’s leadership class facilities. Most ECP application proposals include OpenMP as part of their strategy for reaching exascale levels of performance. The applications teams have identified gaps in OpenMP functionality that must be addressed if it is to meet their exascale development needs, including portable data layout abstractions, movement of complex data structures to/from accelerator memories (deep copy), their use in conjunction with the latest C++ standards, tasks and the ability to create performance portable code. In addition, exascale computer hardware will exhibit a dramatic increase in the amount and complexity of intranode threading with greater heterogeneity and more complex hierarchical memory subsystems. We must adapt the OpenMP feature set and its implementation accordingly.
@@ -19,7 +21,8 @@ SOLLVE proposes an application-driven approach that requires us to interact exte
 
 ##  Useful Links
 
- * [SOLLVE at Brookhaven National Laboratory](https://www.bnl.gov/compsci/projects/SOLLVE/)
+ * [Brookhaven National Laboratory's SOLLVE Page](https://www.bnl.gov/compsci/projects/SOLLVE/)
+ * [Oak Ridge National Laboratory's SOLLVE Page](https://openmp-ecp.ornl.gov/)
  * [SOLLVE GitHub Repositorties](https://github.com/sollve)
  * [SOLLVE Hackathons](https://sites.google.com/view/ecp-omp-hack)
  * [SOLLVE Redmine](https://openmp-ecp.ornl.gov/redmine) (restricted)
@@ -30,6 +33,6 @@ SOLLVE proposes an application-driven approach that requires us to interact exte
  * [SOLLVE at ECP Confluence](https://confluence.exascaleproject.org/display/STPM15) (restricted)
  * [SOLLVE at ECP Jira](https://jira.exascaleproject.org/projects/STPM15) (restricted)
  
- * [OpenMP Website](https://www.openm.org/)
+ * [Offical OpenMP Website](https://www.openm.org/)
  * [OpenMP GitHub Repositories](https://github.com/openmp)
  * [OpenMP TWiki](https://twiki.openmp.org/bin/view/OpenMPLang/WebHome) (restricted)
