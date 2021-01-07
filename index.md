@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+
+My Content
+
+{% avatar meinersbur %}
+
+{% bibliography %}
