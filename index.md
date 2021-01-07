@@ -10,4 +10,4 @@ My Content
 
 {% avatar meinersbur %}
 
-{% bibliography %}
+
